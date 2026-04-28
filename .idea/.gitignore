@@ -8,3 +8,26 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+# ===== Maven =====
+target/
+
+# ===== Java =====
+*.class
+
+# ===== Logs =====
+*.log
+
+# ===== IntelliJ IDEA =====
+.idea/
+*.iml
+workspace.xml
+
+# ===== OS Files =====
+.DS_Store
+Thumbs.db
+
+# ===== Env / Config =====
+.env
+
+# ===== Optional: CSV (only if large/private) =====
+# *.csv
